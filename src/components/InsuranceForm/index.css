@@ -1,0 +1,25 @@
+.form-container {
+    padding-top: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 550px;
+    padding: 16px;
+}
+
+.add-btn {
+    background-color: rgb(64, 168, 126);
+    margin: 12px 0px;
+}
+
+.btn {
+    width: 150px !important
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
